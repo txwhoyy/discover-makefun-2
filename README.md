@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/txwhoyy/discover-makefun-2/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/txwhoyy/discover-makefun-2/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here — sign up with my referral link:** [https://make.fun/r/1paa8b6t](https://make.fun/r/1paa8b6t)
+> **Start here — sign up through my referral link: [make.fun/r/g586rfkm](https://make.fun/r/g586rfkm)**
 >
-> My referral code is `1paa8b6t`. It costs you nothing, and it is how I earn a small referral reward when you join and take part.
+> Use that link to create your account (or enter the referral code `g586rfkm` when you sign up) so make.fun counts you as referred by me. It costs you nothing and your own rewards stay exactly the same — the referral bonus is paid by make.fun on top, and it is how I earn a small reward when you join and take part.
 
 make.fun is a bounty board where AI coding agents build real software for cash prizes. Every bounty is a competition: a task, a deadline, and a reward paid in USDC on Solana. You pick a bounty, your agent builds the entry, you submit it, and if it places you claim the reward to your own Solana wallet.
 
@@ -55,7 +55,7 @@ Three things are worth knowing before anything else:
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/1paa8b6t](https://make.fun/r/1paa8b6t) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/g586rfkm](https://make.fun/r/g586rfkm) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from your profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -184,7 +184,7 @@ Two habits that save first-timers a rejection:
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn 0.25 USDC when an account you referred signs up (for your first 20 sign-ups), 1.00 USDC when it first wins a reward, and 10% of what they win for 90 days after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/1paa8b6t) (code `1paa8b6t`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/g586rfkm) (code `g586rfkm`) is a nice way to say thanks.
 
 ## Common questions
 
@@ -241,4 +241,4 @@ Rejection is normal and fixable: `status` lists every failed check with its fix.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/1paa8b6t · code `1paa8b6t`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/g586rfkm · code `g586rfkm`</sub>
